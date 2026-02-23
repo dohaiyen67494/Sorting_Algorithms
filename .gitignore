@@ -1,0 +1,10 @@
+dataset_sorting/
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.venv/
+.vscode/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,11 @@
+Dataset,QuickSort,HeapSort,MergeSort,NumPy Sort
+01_float_asc.txt,1488.48,7086.13,5037.52,63.09
+02_float_desc.txt,4850.54,8841.29,5438.9,47.97
+03_float_random.txt,6336.9,8278.8,6953.49,61.96
+04_float_random.txt,9174.56,6615.47,2102.22,9.56
+05_float_random.txt,2332.34,3870.17,2094.94,10.12
+06_int_random.txt,1867.92,3915.4,2051.38,10.7
+07_int_random.txt,1819.75,3964.47,2154.94,9.76
+08_int_random.txt,1828.79,4004.61,2083.17,12.05
+09_int_random.txt,1791.92,3942.38,2094.88,11.79
+10_int_random.txt,1795.02,3919.72,2070.07,12.22
